@@ -8,9 +8,10 @@ It envolves making a responsive website for the fictionous Colmar Academy and pu
 
 It wil be a desktop and a mobile version, and using several css technics learned trought the course.
 
-THanks for you patience and have fun.
+Thanks for you patience and have fun.
 
-@marcoscmatos
+## @marcoscmatos
+
 
 
 
